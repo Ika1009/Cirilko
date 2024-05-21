@@ -1,0 +1,33 @@
+/// Just for documentation, SQL script to create required tables
+
+CREATE TABLE korisnici (
+    korisnik_id INT AUTO_INCREMENT PRIMARY KEY,
+    korisnicko_ime VARCHAR(255) NOT NULL UNIQUE,
+    lozinka VARCHAR(255) NOT NULL,
+    ime VARCHAR(255) NOT NULL,
+    prezime VARCHAR(255) NOT NULL,
+    email VARCHAR(255) NOT NULL UNIQUE
+);
+
+CREATE TABLE blog (
+    blog_id INT AUTO_INCREMENT PRIMARY KEY,
+    korisnik_id INT,
+    naslov VARCHAR(255) NOT NULL,
+    sadrzaj TEXT NOT NULL,
+    kategorija VARCHAR(255) NOT NULL,
+    FOREIGN KEY (korisnik_id) REFERENCES korisnici(korisnik_id)
+);
+
+CREATE TABLE komentari (
+    komentar_id INT AUTO_INCREMENT PRIMARY KEY,
+    blog_id INT,
+    korisnik_id INT,
+    tekst TEXT NOT NULL,
+    datum_komentara TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    FOREIGN KEY (blog_id) REFERENCES blog(blog_id),
+    FOREIGN KEY (korisnik_id) REFERENCES korisnici(korisnik_id)
+);
+
+CREATE TABLE subskrajberi (
+    email VARCHAR(255) NOT NULL PRIMARY KEY
+);
