@@ -2,7 +2,7 @@ const urlParams = new URLSearchParams(window.location.search);
 const blogId = urlParams.get('blogId');
 
 async function fetchBlogDetailsAndComments() {
-    const apiUrl = `http://мајндивелопмент.срб/DB/get_blog_by_id.php?blogId=${blogId}`;
+    const apiUrl = `../DB/get_blog_by_id.php?blogId=${blogId}`;
 
     try {
         const response = await fetch(apiUrl);
@@ -19,7 +19,7 @@ async function fetchBlogDetailsAndComments() {
                 event.preventDefault();
 
                 const commentText = document.getElementById('comment').value;
-                const apiUrl = 'http://мајндивелопмент.срб/DB/create_comment.php';
+                const apiUrl = '../DB/create_comment.php';
 
                 try {
                     const response = await fetch(apiUrl, {
@@ -144,7 +144,7 @@ document.getElementById("subscribeButton").addEventListener("click", async (even
     const email = emailInput.value;
     if (!email) { return; }
 
-    const apiUrl = 'http://мајндивелопмент.срб/DB/upload_email.php';
+    const apiUrl = '../DB/upload_email.php';
 
     try {
         const response = await fetch(apiUrl, {

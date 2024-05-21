@@ -1,7 +1,7 @@
 async function kreirajKorisnika(event) {
     event.preventDefault();
 
-    const apiUrl = 'http://мајндивелопмент.срб/DB/create_user.php';
+    const apiUrl = '../DB/create_user.php';
     const formData = new FormData(event.target);
     let ime, prezime;
     const fullName = formData.get('fullName');

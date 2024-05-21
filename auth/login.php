@@ -2,7 +2,7 @@
 session_start();
 
 if (isset($_SESSION['userID'])) {
-    header('Location: http://мајндивелопмент.срб/magazin/magazin.php');
+    header('Location: ../magazin/magazin.php');
     exit;
 }
 ?>

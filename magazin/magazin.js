@@ -26,7 +26,7 @@ if (openModalButton != null) {
 
 
 async function getAllBlogPosts() {
-    const apiUrl = 'http://мајндивелопмент.срб/DB/get_blogs.php'; 
+    const apiUrl = '../DB/get_blogs.php'; 
 
     try {
         const response = await fetch(apiUrl);
@@ -84,7 +84,7 @@ document.getElementById('blogForm').addEventListener('submit', async function(ev
     let kategorija = document.getElementById('category').value;
     let sadrzaj = document.getElementById('description').value;
 
-    const apiUrl = 'http://мајндивелопмент.срб/DB/create_blog.php';
+    const apiUrl = '../DB/create_blog.php';
     const blogContainer = document.querySelector('.grid');
 
     try {
