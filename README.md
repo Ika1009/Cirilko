@@ -1,4 +1,4 @@
-# Dobrodošli na Cirilko! 🎉
+# Dobrodošli na Ćirilka! 🎉
 
 🏆 **Pobednik Hakatona na Ćirilici!** 🥇
 
@@ -6,14 +6,14 @@ Dobitnik prvog mesta na prestižnom takmičenju "Hakaton na Ćirilici" u Beograd
 
 ---
 
-## Šta je Cirilko?
+## Šta je Ćirilko?
 
-Cirilko je inovativni veb sajt koji pruža širok spektar alatki, resursa i magazina kako bi podržao korišćenje ćiriličnog pisma u digitalnom okruženju. Ovaj projekat je nastao kao odgovor na potrebu za lakšim pristupom alatima i resursima za razvoj veb sadržaja na ćirilici, kao i za promociju kulturnog i jezičkog bogatstva ovog pisma.
+Ćirilko je inovativni veb sajt koji pruža širok spektar alatki, resursa i magazina kako bi podržao korišćenje ćiriličnog pisma u digitalnom okruženju. Ovaj projekat je nastao kao odgovor na potrebu za lakšim pristupom alatima i resursima za razvoj veb sadržaja na ćirilici, kao i za promociju kulturnog i jezičkog bogatstva ovog pisma.
 
 ## Funkcionalnosti
 
 ### Alatke 🛠️
-Cirilko pruža širok spektar alatki koje pomažu u kreiranju veb sadržaja na ćirilici. Korisnici mogu pronaći alate za konverziju teksta, optimizaciju slika, kao i alate za testiranje i validaciju ćiriličnih veb stranica.
+Ćirilko pruža širok spektar alatki koje pomažu u kreiranju veb sadržaja na ćirilici. Korisnici mogu pronaći alate za konverziju teksta, optimizaciju slika, kao i alate za testiranje i validaciju ćiriličnih veb stranica.
 
 ### Resursi 📚
 U delu "Resursi", korisnici mogu pronaći bogatu kolekciju materijala koji im mogu pomoći u pisanju na ćirilici. Tu se nalaze priručnici, tutorijali, online kursevi i još mnogo toga.
