@@ -2,7 +2,7 @@
 $servername = "localhost";
 $username = "bonanza_user"; 
 $password = "]INR[CBgsj{~"; 
-$dbname = "cirilko";     
+$dbname = "bonanza_cirilko";     
 
 $dsn = "mysql:host=$servername;dbname=$dbname;charset=utf8mb4";
 
