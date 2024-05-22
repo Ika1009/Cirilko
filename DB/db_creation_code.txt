@@ -39,6 +39,6 @@ CREATE TRIGGER before_korisnici_insert
 BEFORE INSERT ON korisnici
 FOR EACH ROW
 BEGIN
-  SET NEW.slika = FLOOR(1 + RAND() * );
+  SET NEW.slika = FLOOR(1 + RAND() * 6);
 END;//
 DELIMITER ;
