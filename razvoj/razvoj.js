@@ -749,3 +749,4 @@ const clearTextArea = () => {
 
 document.getElementById('kopirajDugme').addEventListener('click', copyToClipboard);
 document.getElementById('obrisiDugme').addEventListener('click', clearTextArea);
+
