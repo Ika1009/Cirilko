@@ -4,7 +4,7 @@
 
 Dobitnik prvog mesta na prestižnom takmičenju "Hakaton na Ćirilici" u Beogradu, organizovanom od strane RNIDS-a i QUANTOX-a. Za više informacija o takmičenju možete pročitati ovde иманаћирилици.срб
 
-![Landing Page](images/screenshot_landing.png)
+![Landing Page](images/screenshot_landing.PNG)
 
 ---
 
