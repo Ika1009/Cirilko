@@ -4,11 +4,16 @@
 
 Dobitnik prvog mesta na prestižnom takmičenju "Hakaton na Ćirilici" u Beogradu, organizovanom od strane RNIDS-a i QUANTOX-a. Za više informacija o takmičenju možete pročitati ovde иманаћирилици.срб
 
+![Landing Page](images/screenshot_landing.PNG)
+
 ---
 
 ## Šta je Ćirilko?
 
-Ćirilko je inovativni veb sajt koji pruža širok spektar alatki, resursa i magazina kako bi podržao korišćenje ćiriličnog pisma u digitalnom okruženju. Ovaj projekat je nastao kao odgovor na potrebu za lakšim pristupom alatima i resursima za razvoj veb sadržaja na ćirilici, kao i za promociju kulturnog i jezičkog bogatstva ovog pisma.
+Ćirilko je inovativni veb sajt koji pruža širok spektar alatki, resursa i magazina kako bi podržao korišćenje ćiriličnog pisma u digitalnom okruženju. Ovaj projekat je nastao kao odgovor na potrebu za lakšim pristupom alatima i resursima za razvoj veb sadržaja na ćirilici, kao i za promociju kulturnog i jezičkog bogatstva ovog pisma. Vebsajt je trenutno hostovan na https://bonanza.rs/cirilko
+
+O projektu detaljnije možete pročitati u Word dokumentu ili na prezentaciji na Canvi: [Pogledajte prezentaciju](https://www.canva.com/design/DAGHJ8SeoTo/2TNZ80ugpzEx2Ic3tqXXBA/view?utm_content=DAGHJ8SeoTo&utm_campaign=designshare&utm_medium=link&utm_source=editor#1)
+
 
 ## Funkcionalnosti
 
@@ -29,6 +34,8 @@ Cirilko je razvijen korišćenjem modernih tehnologija kao što su:
 - **Tailwind CSS**: Za brzo i efikasno stilizovanje veb stranica.
 - **PHP**: Za izradu dinamičkih elemenata veb sajta.
 - **JavaScript**: Za interaktivnost i dinamičko ponašanje veb stranica.
+
+
 
 Ova kombinacija tehnologija omogućava Cirilku da pruži bogato i intuitivno korisničko iskustvo, uz visok nivo performansi i sigurnosti.
 
