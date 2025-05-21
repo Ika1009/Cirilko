@@ -43,7 +43,7 @@ Hvala vam što ste posetili Cirilko! Nadamo se da ćete uživati u korišćenju 
 
 ## Promo materijal
 
-![Landing Page](images/promo1.png)
+![Landing Page](images/promo2.png)
 ![Landing Page](images/promo3.png)
 ![Landing Page](images/promo4.png)
 ![Landing Page](images/promo5.png)
