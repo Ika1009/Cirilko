@@ -4,7 +4,7 @@
 
 Dobitnik prvog mesta na prestižnom takmičenju "Hakaton na Ćirilici" u Beogradu, organizovanom od strane RNIDS-a i QUANTOX-a. Za više informacija o takmičenju možete pročitati ovde иманаћирилици.срб
 
-![Landing Page](images/promo1.PNG)
+![Landing Page](images/promo1.png)
 
 ---
 
@@ -14,6 +14,7 @@ Dobitnik prvog mesta na prestižnom takmičenju "Hakaton na Ćirilici" u Beograd
 
 O projektu detaljnije možete pročitati u Word dokumentu ili na prezentaciji na Canvi: [Pogledajte prezentaciju](https://www.canva.com/design/DAGHJ8SeoTo/2TNZ80ugpzEx2Ic3tqXXBA/view?utm_content=DAGHJ8SeoTo&utm_campaign=designshare&utm_medium=link&utm_source=editor#1)
 
+![Landing Page](images/promo2.png)
 
 ## Funkcionalnosti
 
@@ -26,6 +27,8 @@ U delu "Resursi", korisnici mogu pronaći bogatu kolekciju materijala koji im mo
 ### Magazin 📰
 Magazin je mesto gde korisnici mogu čitati zanimljive blogove o jeziku, kulturi i digitalnom svetu ćiriličnog pisma. Takođe, mogu diskutovati o člancima i deliti svoje mišljenje sa zajednicom.
 
+![Landing Page](images/promo3.png)
+
 ## Tehnologije koje su korišćene
 
 Cirilko je razvijen korišćenjem modernih tehnologija kao što su:
@@ -34,6 +37,9 @@ Cirilko je razvijen korišćenjem modernih tehnologija kao što su:
 - **Tailwind CSS**: Za brzo i efikasno stilizovanje veb stranica.
 - **PHP**: Za izradu dinamičkih elemenata veb sajta.
 - **JavaScript**: Za interaktivnost i dinamičko ponašanje veb stranica.
+
+![Landing Page](images/promo4.png)
+![Landing Page](images/promo5.png)
 
 
 
